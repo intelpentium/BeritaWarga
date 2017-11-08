@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:checked="false"
+            android:icon="@drawable/ic_inbox_black"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/posting"
+            android:checked="false"
+            android:icon="@drawable/ic_inbox_black"
+            android:title="Posting Berita" />
+
+        <item
+            android:id="@+id/kejahatan"
+            android:checked="false"
+            android:icon="@drawable/ic_inbox_black"
+            android:title="Berita Kejahatan" />
+
+        <item
+            android:id="@+id/warga"
+            android:checked="false"
+            android:icon="@drawable/ic_inbox_black"
+            android:title="Daftar Warga" />
+
+        <item
+            android:id="@+id/ronda"
+            android:checked="false"
+            android:icon="@drawable/ic_inbox_black"
+            android:title="Jadwal Ronda" />
+
+        <item
+            android:id="@+id/kas"
+            android:checked="false"
+            android:icon="@drawable/ic_inbox_black"
+            android:title="Info Kas" />
+
+        <item
+            android:id="@+id/lokasi"
+            android:checked="false"
+            android:icon="@drawable/ic_inbox_black"
+            android:title="Lokasi Rumah Warga" />
+
+        <item
+            android:id="@+id/jabatan"
+            android:checked="false"
+            android:icon="@drawable/ic_inbox_black"
+            android:title="Jabatan" />
+
+        <item
+            android:id="@+id/panik"
+            android:checked="false"
+            android:icon="@drawable/ic_inbox_black"
+            android:title="Panik Button" />
+
+        <item
+            android:id="@+id/notifikasi"
+            android:checked="false"
+            android:icon="@drawable/ic_inbox_black"
+            android:title="Notifikasi" />
+
+        <item
+            android:id="@+id/ganti"
+            android:checked="false"
+            android:icon="@drawable/ic_inbox_black"
+            android:title="Ganti Password" />
+
+    </group>
+
+    <!--<item-->
+    <!--android:id="@+id/navigasi_kategori_2"-->
+    <!--android:title="Sub Item Navigasi">-->
+
+    <!--<menu>-->
+    <!--<item-->
+    <!--android:id="@+id/trash"-->
+    <!--android:checked="false"-->
+    <!--android:icon="@drawable/ic_delete_black"-->
+    <!--android:title="@string/trash_string" />-->
+    <!--<item-->
+    <!--android:id="@+id/spam"-->
+    <!--android:checked="false"-->
+    <!--android:icon="@drawable/ic_error_black"-->
+    <!--android:title="@string/spam_string" />-->
+    <!--</menu>-->
+    <!--</item>-->
+</menu>

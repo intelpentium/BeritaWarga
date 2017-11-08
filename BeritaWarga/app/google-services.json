@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "821118150073",
+    "firebase_url": "https://skripsiberita.firebaseio.com",
+    "project_id": "skripsiberita",
+    "storage_bucket": "skripsiberita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821118150073:android:b74f76b6fe57b787",
+        "android_client_info": {
+          "package_name": "com.projeku.berita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821118150073-q8f2r6ie24ieaj67od1jetlru66q2b60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projeku.berita",
+            "certificate_hash": "014f1bc06ca0a2e83407e41d0c571ce504a2941d"
+          }
+        },
+        {
+          "client_id": "821118150073-kpn256gjgo18qn4hrj4a69h07docncd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA916Wmhp0AUY0xOg3il13hJeLGd6h5xqc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821118150073-kpn256gjgo18qn4hrj4a69h07docncd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
